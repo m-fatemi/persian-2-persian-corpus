@@ -14,7 +14,7 @@ A Parallel Corpus of Persian Sentences for Spell Checking
         tgt.txt (2,000 edited sentences)
     /test (6,655 sentence pairs)
         src.txt (6,655 unedited sentences)
-		tgt.txt (6,655 edited sentences)
+	tgt.txt (6,655 edited sentences)
 ```
 
 
